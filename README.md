@@ -1,2 +1,6 @@
 # Qbit
 Robot
+
+Tydzień 10.10-16.10:
+zapoznaliśmy się zdokumentacją ze strony https://microbit.org/ oraz funkcjonalnościami robota
+Dalsze prace przy projekcie planujemy w pythonie. Na git pojawiło się parę plików z powodu testów git które w najbliższym czasie zostaną poddane modyfikacji.
